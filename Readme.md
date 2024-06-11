@@ -1,4 +1,12 @@
-# Tribute to Albert Einstein
+<h2 align="center">
+  Tribute Page - 
+  <a href="https://tribute-page-mridul.vercel.app/" target="_blank">Albert Einstein</a><br /><br />
+  <p>Welcome to Albert Einstein's Tribute Page!</p>
+</h2>
+
+<div align="center">
+  <img alt="Demo" src="./assets/demo.png" />
+</div>
 
 ## Introduction
 
